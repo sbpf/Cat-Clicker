@@ -1,0 +1,20 @@
+#score{
+color: blue;
+font-weight : bold;
+display:none;
+}
+
+#catName{
+    color: green;
+    font-weight : bold;
+    display:none;
+}
+
+#catDisplayArea{
+    background-color : grey;
+    display:none;
+}
+
+.catImage{
+    display:none;
+}
